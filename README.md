@@ -14,7 +14,7 @@ This is a simple todo-list where you can add your tasks, divide work and everyda
 
 - open project directory
   ```
-  cd ToDoList
+  cd todolist
   ```
   
 - install npm by command
