@@ -31,6 +31,6 @@ OR
 nodemon index.js
 ```
 
-- go to the [http://localhost:3000/]([url](http://localhost:3000/)http://localhost:3000/)
+- go to the [http://localhost:3000/](http://localhost:3000/)http://localhost:3000/)
 
 Perfect!
