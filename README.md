@@ -26,11 +26,11 @@ This is a simple todo-list where you can add your tasks, divide work and everyda
   ```
   node index.js
   ```
-OR
-```
-nodemon index.js
-```
+  OR
+  ```
+  nodemon index.js
+  ```
 
-- go to the [http://localhost:3000/](http://localhost:3000/)http://localhost:3000/)
+- go to the [http://localhost:3000/](http://localhost:3000/)
 
 Perfect!
